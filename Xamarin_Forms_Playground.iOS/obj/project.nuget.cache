@@ -1,14 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "pLBGdjZ/1VRb5zesFH0YFwGFh4pyxXVmk+8ZocJHRIbSLmu52EOfoGeOOLZyA4f5OkeNi0j17Bi3StFUi7RM4A==",
+  "dgSpecHash": "v6MYZNei5XhHWYvI48J+J1a28TEheb/kSd1M6qSh/9uDyjEc1uv7UyJ2nBbYpk4ty/dGSMENrvt/+///eRANMw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Allison Taofeek\\Source\\Repos\\XamarinformsPlayground\\Xamarin_Forms_Playground.iOS\\Xamarin_Forms_Playground.iOS.csproj",
+  "projectFilePath": "C:\\Users\\taofeeal\\Source\\Repos\\XamarinformsPlayground2\\Xamarin_Forms_Playground.iOS\\Xamarin_Forms_Playground.iOS.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Allison Taofeek\\.nuget\\packages\\skiasharp\\2.80.2\\skiasharp.2.80.2.nupkg.sha512",
-    "C:\\Users\\Allison Taofeek\\.nuget\\packages\\skiasharp.views\\2.80.2\\skiasharp.views.2.80.2.nupkg.sha512",
-    "C:\\Users\\Allison Taofeek\\.nuget\\packages\\skiasharp.views.forms\\2.80.2\\skiasharp.views.forms.2.80.2.nupkg.sha512",
-    "C:\\Users\\Allison Taofeek\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
-    "C:\\Users\\Allison Taofeek\\.nuget\\packages\\xamarin.forms\\5.0.0.1487-pre1\\xamarin.forms.5.0.0.1487-pre1.nupkg.sha512"
+    "C:\\Users\\taofeeal\\.nuget\\packages\\skiasharp\\2.80.2\\skiasharp.2.80.2.nupkg.sha512",
+    "C:\\Users\\taofeeal\\.nuget\\packages\\skiasharp.views\\2.80.2\\skiasharp.views.2.80.2.nupkg.sha512",
+    "C:\\Users\\taofeeal\\.nuget\\packages\\skiasharp.views.forms\\2.80.2\\skiasharp.views.forms.2.80.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Users\\taofeeal\\.nuget\\packages\\xamarin.forms\\5.0.0.1487-pre1\\xamarin.forms.5.0.0.1487-pre1.nupkg.sha512"
   ],
   "logs": []
 }

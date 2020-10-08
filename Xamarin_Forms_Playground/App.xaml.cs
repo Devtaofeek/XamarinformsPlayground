@@ -14,7 +14,7 @@ namespace Xamarin_Forms_Playground
             InitializeComponent();
 
             DependencyService.Register<MockDataStore>();
-            MainPage = new AppShell();
+            MainPage = new NavigationPage(new Shapes());
         }
 
         protected override void OnStart()

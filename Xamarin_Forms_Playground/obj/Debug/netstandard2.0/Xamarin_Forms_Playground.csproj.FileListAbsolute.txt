@@ -17,3 +17,23 @@ C:\Users\Allison Taofeek\Source\Repos\XamarinformsPlayground\Xamarin_Forms_Playg
 C:\Users\Allison Taofeek\Source\Repos\XamarinformsPlayground\Xamarin_Forms_Playground\obj\Debug\netstandard2.0\ref\Xamarin_Forms_Playground.dll
 C:\Users\Allison Taofeek\Source\Repos\XamarinformsPlayground\Xamarin_Forms_Playground\obj\Debug\netstandard2.0\Xamarin_Forms_Playground.pdb
 C:\Users\Allison Taofeek\Source\Repos\XamarinformsPlayground\Xamarin_Forms_Playground\obj\Debug\netstandard2.0\Views\Shapes.xaml.g.cs
+C:\Users\taofeeal\Source\Repos\XamarinformsPlayground2\Xamarin_Forms_Playground\bin\Debug\netstandard2.0\Xamarin_Forms_Playground.deps.json
+C:\Users\taofeeal\Source\Repos\XamarinformsPlayground2\Xamarin_Forms_Playground\bin\Debug\netstandard2.0\Xamarin_Forms_Playground.dll
+C:\Users\taofeeal\Source\Repos\XamarinformsPlayground2\Xamarin_Forms_Playground\bin\Debug\netstandard2.0\ref\Xamarin_Forms_Playground.dll
+C:\Users\taofeeal\Source\Repos\XamarinformsPlayground2\Xamarin_Forms_Playground\bin\Debug\netstandard2.0\Xamarin_Forms_Playground.pdb
+C:\Users\taofeeal\Source\Repos\XamarinformsPlayground2\Xamarin_Forms_Playground\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\taofeeal\Source\Repos\XamarinformsPlayground2\Xamarin_Forms_Playground\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\taofeeal\Source\Repos\XamarinformsPlayground2\Xamarin_Forms_Playground\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\taofeeal\Source\Repos\XamarinformsPlayground2\Xamarin_Forms_Playground\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\taofeeal\Source\Repos\XamarinformsPlayground2\Xamarin_Forms_Playground\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\taofeeal\Source\Repos\XamarinformsPlayground2\Xamarin_Forms_Playground\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\taofeeal\Source\Repos\XamarinformsPlayground2\Xamarin_Forms_Playground\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\taofeeal\Source\Repos\XamarinformsPlayground2\Xamarin_Forms_Playground\obj\Debug\netstandard2.0\Views\Shapes.xaml.g.cs
+C:\Users\taofeeal\Source\Repos\XamarinformsPlayground2\Xamarin_Forms_Playground\obj\Debug\netstandard2.0\Xamarin_Forms_Playground.AssemblyInfoInputs.cache
+C:\Users\taofeeal\Source\Repos\XamarinformsPlayground2\Xamarin_Forms_Playground\obj\Debug\netstandard2.0\Xamarin_Forms_Playground.AssemblyInfo.cs
+C:\Users\taofeeal\Source\Repos\XamarinformsPlayground2\Xamarin_Forms_Playground\obj\Debug\netstandard2.0\Xamarin_Forms_Playground.csproj.CoreCompileInputs.cache
+C:\Users\taofeeal\Source\Repos\XamarinformsPlayground2\Xamarin_Forms_Playground\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\taofeeal\Source\Repos\XamarinformsPlayground2\Xamarin_Forms_Playground\obj\Debug\netstandard2.0\Xamarin_Forms_Playground.dll
+C:\Users\taofeeal\Source\Repos\XamarinformsPlayground2\Xamarin_Forms_Playground\obj\Debug\netstandard2.0\ref\Xamarin_Forms_Playground.dll
+C:\Users\taofeeal\Source\Repos\XamarinformsPlayground2\Xamarin_Forms_Playground\obj\Debug\netstandard2.0\Xamarin_Forms_Playground.pdb
+C:\Users\taofeeal\Source\Repos\XamarinformsPlayground2\Xamarin_Forms_Playground\obj\Debug\netstandard2.0\Xamarin_Forms_Playground.csprojAssemblyReference.cache
