@@ -1,29 +1,29 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\taofeeal\\source\\repos\\Xamarin_Forms_Playground\\Xamarin_Forms_Playground.Android\\Xamarin_Forms_Playground.Android.csproj": {}
+    "C:\\Users\\Allison Taofeek\\Source\\Repos\\XamarinformsPlayground\\Xamarin_Forms_Playground.Android\\Xamarin_Forms_Playground.Android.csproj": {}
   },
   "projects": {
-    "C:\\Users\\taofeeal\\source\\repos\\Xamarin_Forms_Playground\\Xamarin_Forms_Playground.Android\\Xamarin_Forms_Playground.Android.csproj": {
+    "C:\\Users\\Allison Taofeek\\Source\\Repos\\XamarinformsPlayground\\Xamarin_Forms_Playground.Android\\Xamarin_Forms_Playground.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\taofeeal\\source\\repos\\Xamarin_Forms_Playground\\Xamarin_Forms_Playground.Android\\Xamarin_Forms_Playground.Android.csproj",
+        "projectUniqueName": "C:\\Users\\Allison Taofeek\\Source\\Repos\\XamarinformsPlayground\\Xamarin_Forms_Playground.Android\\Xamarin_Forms_Playground.Android.csproj",
         "projectName": "Xamarin_Forms_Playground.Android",
-        "projectPath": "C:\\Users\\taofeeal\\source\\repos\\Xamarin_Forms_Playground\\Xamarin_Forms_Playground.Android\\Xamarin_Forms_Playground.Android.csproj",
-        "packagesPath": "C:\\Users\\taofeeal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\taofeeal\\source\\repos\\Xamarin_Forms_Playground\\Xamarin_Forms_Playground.Android\\obj\\",
+        "projectPath": "C:\\Users\\Allison Taofeek\\Source\\Repos\\XamarinformsPlayground\\Xamarin_Forms_Playground.Android\\Xamarin_Forms_Playground.Android.csproj",
+        "packagesPath": "C:\\Users\\Allison Taofeek\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Allison Taofeek\\Source\\Repos\\XamarinformsPlayground\\Xamarin_Forms_Playground.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\taofeeal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Allison Taofeek\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "monoandroid90"
+          "monoandroid10.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -31,45 +31,49 @@
           "https://nuget.telerik.com/nuget": {}
         },
         "frameworks": {
-          "monoandroid90": {
+          "monoandroid10.0": {
             "projectReferences": {
-              "C:\\Users\\taofeeal\\source\\repos\\Xamarin_Forms_Playground\\Xamarin_Forms_Playground\\Xamarin_Forms_Playground.csproj": {
-                "projectPath": "C:\\Users\\taofeeal\\source\\repos\\Xamarin_Forms_Playground\\Xamarin_Forms_Playground\\Xamarin_Forms_Playground.csproj"
+              "C:\\Users\\Allison Taofeek\\Source\\Repos\\XamarinformsPlayground\\Xamarin_Forms_Playground\\Xamarin_Forms_Playground.csproj": {
+                "projectPath": "C:\\Users\\Allison Taofeek\\Source\\Repos\\XamarinformsPlayground\\Xamarin_Forms_Playground\\Xamarin_Forms_Playground.csproj"
               }
             }
           }
         }
       },
       "frameworks": {
-        "monoandroid90": {
+        "monoandroid10.0": {
           "dependencies": {
+            "SkiaSharp.Views.Forms": {
+              "target": "Package",
+              "version": "[2.80.2, )"
+            },
             "Xamarin.Essentials": {
               "target": "Package",
               "version": "[1.5.3.2, )"
             },
             "Xamarin.Forms": {
               "target": "Package",
-              "version": "[4.6.0.1141, )"
+              "version": "[5.0.0.1487-pre1, )"
             }
           }
         }
       }
     },
-    "C:\\Users\\taofeeal\\source\\repos\\Xamarin_Forms_Playground\\Xamarin_Forms_Playground\\Xamarin_Forms_Playground.csproj": {
+    "C:\\Users\\Allison Taofeek\\Source\\Repos\\XamarinformsPlayground\\Xamarin_Forms_Playground\\Xamarin_Forms_Playground.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\taofeeal\\source\\repos\\Xamarin_Forms_Playground\\Xamarin_Forms_Playground\\Xamarin_Forms_Playground.csproj",
+        "projectUniqueName": "C:\\Users\\Allison Taofeek\\Source\\Repos\\XamarinformsPlayground\\Xamarin_Forms_Playground\\Xamarin_Forms_Playground.csproj",
         "projectName": "Xamarin_Forms_Playground",
-        "projectPath": "C:\\Users\\taofeeal\\source\\repos\\Xamarin_Forms_Playground\\Xamarin_Forms_Playground\\Xamarin_Forms_Playground.csproj",
-        "packagesPath": "C:\\Users\\taofeeal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\taofeeal\\source\\repos\\Xamarin_Forms_Playground\\Xamarin_Forms_Playground\\obj\\",
+        "projectPath": "C:\\Users\\Allison Taofeek\\Source\\Repos\\XamarinformsPlayground\\Xamarin_Forms_Playground\\Xamarin_Forms_Playground.csproj",
+        "packagesPath": "C:\\Users\\Allison Taofeek\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Allison Taofeek\\Source\\Repos\\XamarinformsPlayground\\Xamarin_Forms_Playground\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\taofeeal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Allison Taofeek\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -101,13 +105,17 @@
               "version": "[2.0.3, )",
               "autoReferenced": true
             },
+            "SkiaSharp.Views.Forms": {
+              "target": "Package",
+              "version": "[2.80.2, )"
+            },
             "Xamarin.Essentials": {
               "target": "Package",
               "version": "[1.5.3.2, )"
             },
             "Xamarin.Forms": {
               "target": "Package",
-              "version": "[4.6.0.1141, )"
+              "version": "[5.0.0.1487-pre1, )"
             }
           },
           "imports": [
@@ -120,7 +128,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

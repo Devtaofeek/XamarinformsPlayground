@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "73H5gWkfvXGfm7FVD/tal8EQTdIZ4pCCDN7gMvwAXPneuaa2eukUeC3DqD6UR+TPh+2PDJh/Do+9vURcyUUsNw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Allison Taofeek\\Source\\Repos\\XamarinformsPlayground\\Xamarin_Forms_Playground\\Xamarin_Forms_Playground.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Allison Taofeek\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Allison Taofeek\\.nuget\\packages\\skiasharp\\2.80.2\\skiasharp.2.80.2.nupkg.sha512",
+    "C:\\Users\\Allison Taofeek\\.nuget\\packages\\skiasharp.views.forms\\2.80.2\\skiasharp.views.forms.2.80.2.nupkg.sha512",
+    "C:\\Users\\Allison Taofeek\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\Allison Taofeek\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\Allison Taofeek\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Allison Taofeek\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\Allison Taofeek\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Users\\Allison Taofeek\\.nuget\\packages\\xamarin.forms\\5.0.0.1487-pre1\\xamarin.forms.5.0.0.1487-pre1.nupkg.sha512"
+  ],
+  "logs": []
+}
