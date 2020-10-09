@@ -31,7 +31,7 @@
 
     <TabBar>
         <ShellContent Title="About" Icon="tab_about.png" Route="AboutPage" ContentTemplate="{DataTemplate local:LoginPage}" />
-        <ShellContent Title="Browse" Icon="tab_feed.png" ContentTemplate="{DataTemplate local:Shapes}" />
+        <ShellContent Title="Browse" Icon="tab_feed.png" ContentTemplate="{DataTemplate local:Shapes}"  Shell.NavBarIsVisible="False"/>
     </TabBar>
 
     <!--

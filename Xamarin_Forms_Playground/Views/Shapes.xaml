@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Xamarin_Forms_Playground.Views.Shapes"
+             NavigationPage.HasNavigationBar="False">
+    <ContentPage.Content>
+        <ScrollView VerticalScrollBarVisibility="Never" Background="#232323">
+            <Grid VerticalOptions="FillAndExpand">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="550"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+               
+                <CarouselView x:Name="Carousel" Grid.Row="0" IndicatorView="indicatorView">
+                    <CarouselView.ItemTemplate>
+                        <DataTemplate>
+                            <Grid>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="520"/>
+                                    <RowDefinition Height="20"/>
+                                </Grid.RowDefinitions>
+                                <Image Source="{Binding Image}" Grid.Row="0" Aspect="Fill"/>
+                                <Image Source="Path2512.png" Grid.Row="1" Margin="0,-80,0,0" Aspect="Fill"/>
+                                <Label Text="{Binding Text}" Grid.Row="0" FontSize="22" VerticalOptions="End" Padding="10"
+                       HorizontalTextAlignment="Center" Opacity="1"  Margin="0,0,0,-25" TextColor="White" VerticalTextAlignment="Center"
+                                       LineBreakMode="WordWrap"/>
+                            </Grid>
+                        </DataTemplate>
+                    </CarouselView.ItemTemplate>
+                </CarouselView>
+                <Image Source="Component.png" VerticalOptions="Start" x:Name="image"
+                       Grid.Row="0" HorizontalOptions="Center" 
+                       Margin="0,30,0,0" IsAnimationPlaying="True"/>
+                <Button Text="Get Started" CornerRadius="23" Grid.Row="1" HorizontalOptions="FillAndExpand" Margin="15" VerticalOptions="Start" BackgroundColor="#8D1AA2" TextColor="White"/>
+                <IndicatorView x:Name="indicatorView" 
+                  IndicatorSize="18" IndicatorsShape="Circle"
+                               IndicatorColor="LightGray"
+                   SelectedIndicatorColor="DarkGray"
+                              Margin="0,90,0,0"
+                   HorizontalOptions="Center">
+                </IndicatorView>
+                <!--<Image Source="Group3070.png" Grid.Row="0" Aspect="Fill">
+                </Image>-->
+                <!--<Image Source="Path2512.png" Grid.Row="1" Margin="0,-90,0,0" Aspect="Fill"/>-->
+
+                <!--<Label Text="Your favorite delivery guys, never caught unfresh" Grid.Row="1" FontSize="22" 
+                       HorizontalTextAlignment="Center" Opacity="1" TextColor="White"/>-->
+               
+                
+            </Grid>
+        </ScrollView>
+       
+    </ContentPage.Content>
+</ContentPage>
